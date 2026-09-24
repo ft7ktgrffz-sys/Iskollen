@@ -1,0 +1,16 @@
+{
+  "name": "Iskollen – SHL",
+  "short_name": "Iskollen",
+  "description": "Din privata SHL-app med matcher, matchcenter, Spåkulan och statistik.",
+  "lang": "sv-SE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06101d",
+  "theme_color": "#07111f",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
